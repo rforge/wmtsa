@@ -10,19 +10,19 @@ DependsSplus: ifultools (>= 1.0-2)
 Description: Software to book Wavelet Methods for Time Series Analysis, Donald B. Percival and Andrew T. Walden, Cambridge University Press, 2000.
 License: GPL-2
 ZipData: no
-Collate: wav_boot.q
-         wav_coef.q
-         wav_dict.q
-         wav_fdp.q
-         wav_filt.q
-         wav_gnrc.q
-         wav_mrd.q
-         wav_plot.q
-         wav_shrk.q
-         wav_sig.q
-         wav_util.q
-         wav_var.q
-         wav_wtmm.q
-         wav_xform.q
-         zzz.R
+Collate: wav_boot.R
+         wav_coef.R
+         wav_dict.R
+         wav_fdp.R
+         wav_filt.R
+         wav_gnrc.R
+         wav_mrd.R
+         wav_plot.R
+         wav_shrk.R
+         wav_sig.R
+         wav_util.R
+         wav_var.R
+         wav_wtmm.R
+         wav_xform.R
+         wav_pkg.R
 
