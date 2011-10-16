@@ -25,6 +25,13 @@
   UseMethod("eda.plot")
 
 ###
+# print.summary
+###
+
+"print.summary" <- function(x, ...)
+  UseMethod("print.summary")
+
+###
 # reconstruct
 ###
 
@@ -37,3 +44,5 @@
 
 "wavStackPlot" <- function(x, ...)
   UseMethod("wavStackPlot")
+
+  
