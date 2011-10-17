@@ -1,5 +1,5 @@
 ################################################
-## S+WMTSA series functionality
+## WMTSA series functionality
 ##
 ##  Functions:
 ##

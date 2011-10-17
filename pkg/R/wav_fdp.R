@@ -1,5 +1,5 @@
 #############################################################
-## S+WMTSA fractionally differenced process functionality
+## WMTSA fractionally differenced process functionality
 ##
 ##  Functions:
 ##

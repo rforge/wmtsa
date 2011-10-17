@@ -1,5 +1,5 @@
 ################################################
-## S+WMTSA filter functionality
+## WMTSA filter functionality
 ##
 ##  Functions:
 ##
